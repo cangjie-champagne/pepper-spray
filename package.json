@@ -9,6 +9,7 @@
   "author": "Joao Pedro",
   "license": "MIT",
   "dependencies": {
-    "commander": "^11.0.0"
+    "commander": "^11.0.0",
+    "telephone-booth": "git+ssh://git@github.com:joaopjt/telephone-booth#master"
   }
 }
