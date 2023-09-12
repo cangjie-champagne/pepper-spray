@@ -1,27 +1,27 @@
 {
-  "hand": "Shǒu", // 
-  "field": "Tián", // 
-  "water": "Shuǐ", // 
-  "mouth": "Kǒu", // 
-  "twenty": "Niàn", // sunglasses **
-  "predict": "Bo", // gas-station
-  "mountain": "Shān", // pepper-spray
-  "dagger-axe": "Gē", // fire-extinguisher
-  "people": "Rén", // 
-  "heart": "Xīn", // 
-  "day": "Rì", // 
-  "corpse": "Shī", // sunflower
-  "wood": "Mù", // 
-  "fire": "Huǒ", // 
-  "earth": "Tǔ", // 
-  "bamboo": "Zhú", // 
-  "ten": "Shí", // 
-  "big": "Dà", // bullseye **
-  "middle": "Zhōng", // 
-  "disaster": "Nán", // 
-  "gold": "Jīn", // trash-can
-  "female": "Nǚ", // 
-  "moon": "Yuè", // 
-  "bow": "Gōng", // 
+  "hand": "Shǒu",
+  "field": "Tián",
+  "water": "Shuǐ",
+  "mouth": "Kǒu",
+  "twenty": "Niàn",
+  "predict": "Bo",
+  "mountain": "Shān",
+  "dagger-axe": "Gē",
+  "people": "Rén",
+  "heart": "Xīn",
+  "day": "Rì",
+  "corpse": "Shī",
+  "wood": "Mù",
+  "fire": "Huǒ",
+  "earth": "Tǔ",
+  "bamboo": "Zhú",
+  "ten": "Shí",
+  "big": "Dà",
+  "middle": "Zhōng",
+  "disaster": "Nán",
+  "gold": "Jīn",
+  "female": "Nǚ",
+  "moon": "Yuè",
+  "bow": "Gōng",
   "one": "Yī"
 }
