@@ -1,4 +1,2 @@
 # 🌶️ pepper-spray
-A cangjie keyboard translation method from any input possible.
-
-## under development!
+A Shān cangjie keyboard word key translation method from any input possible.
